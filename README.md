@@ -1,16 +1,16 @@
-## Hi there, I'm [睡沙发の沙皮狗!](https://leeif.me/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm [睡沙发の沙皮狗!](https://leeif.me/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://github.com/leeifme" target="blank">
-  <img align="left" alt="leeifme | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
+  <img align="left" alt="leeifme | Github" width="20px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 </a>
 <a href="https://twitter.com/leeifme" target="blank">
-  <img align="left" alt="Yoni Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+  <img align="left" alt="leeifme | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
 </a>
 <a href="https://telegram.org/" target="blank">
-  <img align="left" alt="leeifme | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/telegram.svg" />
+  <img align="left" alt="leeifme | Telegram" width="20px" src="https://cdn.svgporn.com/logos/telegram.svg" />
 </a>
 <a href="http://stackoverflow.com" target="blank">
-  <img align="left" alt="leeifme | Medium" width="21px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" />
+  <img align="left" alt="leeifme | Stackoverflow" width="21px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" />
 </a>
 <a href="http://instagram.com/leeifme" target="blank">
   <img align="left" alt="leeifme | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
@@ -58,8 +58,8 @@ Hi, I'm Yoni Calsin, a passionate self-taught Backend-Developer (Cloud Native, D
 <code><img height="20" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/steam.svg"></code>
 
-_NOTE_: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+**`⚠ NOTE`** : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/leeifme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leeifme&show_icons=true&theme=vue&line_height=27&include_all_commits=true" alt="" />
-</a>
+![Leeifme's github stats](https://github-readme-stats.vercel.app/api?username=leeifme&show_icons=true&theme=vue&line_height=27&count_private=true)
+
+*This README was generated with :heart: by leeif.me*
