@@ -19,7 +19,6 @@
   <img align="left" alt="leeifme | Medium" width="21px" src="https://cdn.svgporn.com/logos/medium.svg" />
 </a>
 
-
 <br />
 <br />
 
@@ -36,52 +35,30 @@ Hi, I'm Yoni Calsin, a passionate self-taught Backend-Developer (Cloud Native, D
 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/docker.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/rancher.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/etcd.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/prometheus.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/nginx.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/kafka.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/redis.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/airflow.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/git.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/vim.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/otto.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/raspberry-pi.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/steam.svg"></code>
 
-
+_NOTE_: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/leeifme">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leeifme&show_icons=true&theme=vue&line_height=27&include_all_commits=true" alt="" />
