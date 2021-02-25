@@ -1,4 +1,4 @@
-### Hi there, I'm [睡沙发の沙皮狗!](https://leeif.me/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://github.com/leeifme" target="blank">
   <img align="left" alt="leeifme | Github" width="20px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm 睡沙发の沙皮狗, a passionate self-taught Backend-Developer (Cloud Native, Devops) from China.
+a passionate self-taught Backend-Developer (Cloud Native, Devops) from China.
 <br />
 
 - 🏆 Subscribe to my newsletter [here](https://leeif.me/)
