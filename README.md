@@ -1,6 +1,6 @@
 ## Contact Me :speech_balloon:
 
-[<img src = "https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/leeifme) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/leeifme) [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com) [<img src = "https://img.shields.io/badge/leeifmee-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white">](mailto:leeifmee@gmail.com)
+[<img src = "https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/leeifme) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/leeifme) [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/leeifme) [<img src = "https://img.shields.io/badge/leeifmee-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white">](mailto:leeifmee@gmail.com)
 
 ## Languages and Tools
 
@@ -27,6 +27,11 @@
 
 ![MacBook](http://img.shields.io/badge/-MacBook-4a47a3?style=flat-square&logo=apple&logoColor=ffffff) ![Centos](http://img.shields.io/badge/-Centos-A81D33?style=flat-square&logo=centos&logoColor=ffffff) ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/leeifme/count.svg" />
+</p>
 
 
 *This README was generated with :heart: by leeif.me*
