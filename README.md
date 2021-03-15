@@ -1,65 +1,32 @@
-### Hi there <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+## Contact Me :speech_balloon:
 
-<a href="https://github.com/leeifme" target="blank">
-  <img align="left" alt="leeifme | Github" width="20px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
-</a>
-<a href="https://twitter.com/leeifme" target="blank">
-  <img align="left" alt="leeifme | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
-</a>
-<a href="https://telegram.org/" target="blank">
-  <img align="left" alt="leeifme | Telegram" width="20px" src="https://cdn.svgporn.com/logos/telegram.svg" />
-</a>
-<a href="http://stackoverflow.com" target="blank">
-  <img align="left" alt="leeifme | Stackoverflow" width="21px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" />
-</a>
-<a href="http://instagram.com/leeifme" target="blank">
-  <img align="left" alt="leeifme | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
-</a>
-<a href="http://medium.com/leeifme" target="blank">
-  <img align="left" alt="leeifme | Medium" width="21px" src="https://cdn.svgporn.com/logos/medium.svg" />
-</a>
+[<img src = "https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/leeifme) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/leeifme) [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com) [<img src = "https://img.shields.io/badge/leeifmee-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white">](mailto:leeifmee@gmail.com)
 
-<br />
-<br />
+## Languages and Tools
 
-a passionate self-taught Backend-Developer (Cloud Native, Devops) from China.
-<br />
+#### Technical Skills
 
-- 🏆 Subscribe to my newsletter [here](https://leeif.me/)
-- 🔭 My web development blog https://leeif.me/
-- 👨‍💻 I’m currently working on my project 
-- 🚀 I’m currently learning [Cloud Native](https://www.cncf.io/)
-- 🌈 I’m looking to collaborate on [Golang](https://github.com/golang)
-- 💬 Ask me about anything [here](https://github.com/leeifme/leeifme/issues)
+<img src = "https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/-Rust-0c056d?style=flat&logo=rust&logoColor=5b8cc4"> <img src="https://img.shields.io/badge/-Python-164ead?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ff7171?style=flat&logo=javascript&logoColor=eed718"> ![Docker](https://img.shields.io/badge/-Docker-005691?style=flat-square&logo=kubernetes) ![Docker](https://img.shields.io/badge/-Docker-025955?style=flat-square&logo=docker)
+![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
+![grafana](https://img.shields.io/badge/-Grafana-7868e6?style=flat-square&logo=grafana) ![Prometheus](https://img.shields.io/badge/-Prometheus-8d6262?style=flat-square&logo=prometheus) ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-00adb5?style=flat-square&logo=rabbitmq) [![Redis](https://img.shields.io/badge/-Redis-6639a6?style=flat-square&logo=Redis)]() [![MySQL](https://img.shields.io/badge/-MySQL-FCA121?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3282b8?style=flat-square&logo=elasticsearch) 
 
-**Languages and Tools:**
+#### Editors
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/docker.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/rancher.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/etcd.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/prometheus.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/grafana.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nginx.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/kafka.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/redis.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/airflow.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/git.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/vim.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/otto.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/raspberry-pi.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/steam.svg"></code>
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Golang](https://img.shields.io/badge/Terminal-3776AB?style=flat-square&logo=windows-terminal&logoColor=white)
+![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-**`⚠ NOTE`** : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+#### Deploy
 
-![Leeifme's github stats](https://github-readme-stats.vercel.app/api?username=leeifme&show_icons=true&theme=vue&line_height=27&count_private=true)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) ![jenkins](https://img.shields.io/badge/-Jenkins-314e52?style=flat-square&logo=jenkins)
+
+#### Device
+
+![MacBook](http://img.shields.io/badge/-MacBook-4a47a3?style=flat-square&logo=apple&logoColor=ffffff) ![Centos](http://img.shields.io/badge/-Centos-A81D33?style=flat-square&logo=centos&logoColor=ffffff) ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
+
+
 
 *This README was generated with :heart: by leeif.me*
