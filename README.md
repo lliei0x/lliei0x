@@ -28,10 +28,9 @@
 ![MacBook](http://img.shields.io/badge/-MacBook-4a47a3?style=flat-square&logo=apple&logoColor=ffffff) ![Centos](http://img.shields.io/badge/-Centos-A81D33?style=flat-square&logo=centos&logoColor=ffffff) ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
 
 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  <h2>Visitor count</h2><br>
   <img src="https://profile-counter.glitch.me/leeifme/count.svg" />
 </p>
-
 
 *This README was generated with :heart: by leeif.me*
