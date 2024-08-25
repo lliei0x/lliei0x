@@ -1,11 +1,11 @@
 name: Metrics Generate 
 on:
   # Schedule daily updates
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "0 0 * * 1" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: { branches: ["main"] }
+  # push: { branches: ["main"] }
 jobs:
   metrics-generate:
     runs-on: ubuntu-latest
@@ -25,19 +25,14 @@ jobs:
           template: classic
           filename: metrics.lliei0x.svg
           base: header, activity, community, repositories, metadata
-          config_timezone: UTC
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
+          config_timezone: Asia/Shanghai
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_calendar: no
+          # plugin_calendar_limit: 2
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -59,6 +54,10 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_topics: yes
+          plugin_topics_mode: icons
           plugin_repositories: yes
-          plugin_repositories_featured: golang/go, rust-lang/rust, subframe7536/maple-font
+          plugin_repositories_featured: golang/go, rust-lang/rust
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_stars: no
+          plugin_stars_limit: 3
