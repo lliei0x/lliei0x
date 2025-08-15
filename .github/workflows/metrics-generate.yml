@@ -1,7 +1,8 @@
 name: Metrics Generate 
 on:
   # Schedule daily updates
-  schedule: [{ cron: "0 0 * * 1" }]
+  schedule: 
+    - cron: '0 10 * * *'
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -13,15 +14,20 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+    steps:  
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          output_action: commit
-          committer_branch: auto-generate
-          token: ${{ secrets.METRICS_TOKEN }}
-          
+          fetch-depth: 0
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
           # Options
           user: lliei0x
+          output_action: none
+          committer_branch: auto-generate
+          committer_message: '📝 update metrics svg'
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           filename: metrics.lliei0x.svg
           base: header, activity, community, repositories, metadata
@@ -61,3 +67,18 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stars: no
           plugin_stars_limit: 3
+      - name: Update Metrics
+        env:
+          TZ: 'Asia/Shanghai'
+        run: |
+          set +e
+          TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
+          git checkout metrics-renders
+          git config user.name 'lliei0x'
+          git config user.email 'git@liei.cc'
+          git checkout auto-generate
+          git pull --rebase origin auto-generate
+          sudo mv /metrics_renders/* ./
+          git add --all
+          git commit -m "📝 Auto Update Metrics: $TIMESTAMP"
+          git push origin auto-generate

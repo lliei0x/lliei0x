@@ -83,5 +83,5 @@ You can also sponsor me on [`GitHub`](https://github.com/sponsors/lliei0x) or [`
 <p>
   <a href="https://github.com/sponsors/lliei0x"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40" /></a>
   &nbsp;
-  <a href="https://www.buymeacoffee.com/lliei0x"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lliei0x&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="40" /></a>
+  <a href="https://www.buymeacoffee.com/lliei0x"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=lliei0x&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="30" /></a>
 </p>
