@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/lliei0x/lliei0x/auto-generate/metrics.lliei0x.svg" />
+<img align="right" src="https://raw.githubusercontent.com/lliei0x/lliei0x/main/metrics.lliei0x.svg" />
 
 ## Hi there, I'm LLIEI0X 👋
 

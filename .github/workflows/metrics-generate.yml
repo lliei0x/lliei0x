@@ -25,7 +25,7 @@ jobs:
           # Options
           user: lliei0x
           output_action: none
-          committer_branch: auto-generate
+          committer_branch: main
           committer_message: '📝 update metrics svg'
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
@@ -76,9 +76,9 @@ jobs:
           git checkout metrics-renders
           git config user.name 'lliei0x'
           git config user.email 'git@liei.cc'
-          git checkout auto-generate
-          git pull --rebase origin auto-generate
+          git checkout main
+          git pull --rebase origin main
           sudo mv /metrics_renders/* ./
           git add --all
           git commit -m "📝 Auto Update Metrics: $TIMESTAMP"
-          git push origin auto-generate
+          git push origin main
